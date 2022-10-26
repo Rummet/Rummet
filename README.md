@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-- I’m @rummet
+- I’m @Rummet
 - I’m interested in Blender 3D, Linux, Rust and open source projects!
 - I’m currently learning just about anything I can, as I'm still quite new to all things tech.
 <!---- 💞️ I’m looking to collaborate on ...
